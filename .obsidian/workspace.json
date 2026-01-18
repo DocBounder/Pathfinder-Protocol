@@ -627,6 +627,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Kalah",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Kalah.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Kalah\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":12.511848341232227}"
+                },
+                {
                   "title": "All-Cards-Printer-Friendly-9-09-25",
                   "icon": "lucide-file-text",
                   "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"z_Assets/All-Cards-Printer-Friendly-9-09-25.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"All-Cards-Printer-Friendly-9-09-25\"}",
@@ -1061,10 +1067,24 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/Template - Character (Player.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Template - Character (Player"
             }
           }
         ],
@@ -1252,13 +1272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Age of Dungeon Breaks.md",
+                "file": "z_Templates/Template - Character (Player.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Age of Dungeon Breaks"
+              "title": "Outline of Template - Character (Player"
             }
           },
           {
@@ -1336,13 +1356,34 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "z_Templates/Template - Character (Player.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Template - Character (Player"
+            }
+          },
+          {
+            "id": "ef18156a004a6317",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -1371,8 +1412,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8713fb93df1d19f4",
+  "active": "ef18156a004a6317",
   "lastOpenFiles": [
+    "1. The Party/Kalah.md",
+    "z_Templates/Template - Character (Player.md",
+    "z_Assets/daggerheart-srd-main/subclasses/Nightwalker.md",
     "Crow(1).md",
     "Untitled.md",
     "z_Assets/All-Cards-Printer-Friendly-9-09-25.pdf",
@@ -1396,7 +1440,6 @@
     "z_Templates/Groups/Template — Group (Commerce).md",
     "z_Templates/Groups/Template — Group (Religious).md",
     "z_Templates/Groups/Template — Group (Base).base",
-    "1. The Party/Kalah.md",
     "z_Templates/Groups/Template — Group (Political).md",
     "z_Templates/Groups",
     "Notion/Daggerbase/Databases/Attributes/Valor.md",
@@ -1411,7 +1454,6 @@
     "Notion/Daggerbase/Databases/Attributes/Grace.md",
     "Notion/Daggerbase/Databases/Attributes/Codex.md",
     "Notion/Daggerbase/Databases/Attributes/Bone.md",
-    "Notion/Daggerbase/Databases/Attributes/Blade.md",
     "z_Assets/Blade.jpeg",
     "z_Assets/Screenshot 2025-09-10 at 8.39.58 AM.png",
     "z_Assets/Screenshot_2025-09-10_at_12.46.53_PM.png",
