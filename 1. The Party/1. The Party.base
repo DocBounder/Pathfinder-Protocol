@@ -1,0 +1,39 @@
+properties:
+  file.name:
+    displayName: Name
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "1. The Party"
+        - '!file.name.contains(".base")'
+    order:
+      - hp
+      - stress
+      - file.name
+      - "hope "
+      - heritage
+      - subclass
+      - evasion
+      - armor
+      - major threshold
+      - severe threshold
+      - prof
+    sort:
+      - property: prof
+        direction: ASC
+      - property: "hope "
+        direction: ASC
+    columnSize:
+      "note.hope ": 99
+  - type: cards
+    name: NPC Posters
+    filters:
+      and:
+        - '!file.name.contains(".base")'
+        - file.folder == "1. The Party"
+    order:
+      - file.name
+    image: note.poster
+    cardSize: 170

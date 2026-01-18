@@ -1,0 +1,61 @@
+# World
+
+filters:
+  and:
+    - note["base"] == link("World.base")
+properties:
+  file.name:
+    displayName: Adversary
+  Damage:
+    displayName: Damage
+  Description:
+    displayName: Description
+  Experience:
+    displayName: Experience
+  Horde No./HP:
+    displayName: Horde No./HP
+  Potential Environments:
+    displayName: Potential Environments
+  Difficulty:
+    displayName: Difficulty
+  Range:
+    displayName: Range
+  Weapon:
+    displayName: Weapon
+  Features:
+    displayName: Features
+  Thresholds:
+    displayName: Thresholds
+  HP:
+    displayName: HP
+  Tier:
+    displayName: Tier
+  Stress:
+    displayName: Stress
+  Type:
+    displayName: Type
+  Attack:
+    displayName: Attack
+  Motives & Tactics:
+    displayName: Motives & Tactics
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Damage
+      - Description
+      - Experience
+      - Horde No./HP
+      - Potential Environments
+      - Difficulty
+      - Range
+      - Weapon
+      - Features
+      - Thresholds
+      - HP
+      - Tier
+      - Stress
+      - Type
+      - Attack
+      - Motives & Tactics

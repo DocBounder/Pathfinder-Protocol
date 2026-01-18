@@ -1,0 +1,14 @@
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "2. Mechanics/Non-Player Character"
+    order:
+      - file.name
+      - file.backlinks
+      - formula.Untitled
+  - type: list
+    name: View

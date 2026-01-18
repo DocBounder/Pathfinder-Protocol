@@ -1,0 +1,22 @@
+filters:
+  and:
+    - note["base"] == link("Loot.base")
+properties:
+  file.name:
+    displayName: Consumable
+  Rarity:
+    displayName: Rarity
+  No.:
+    displayName: No.
+  Description:
+    displayName: Description
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Rarity
+      - No.
+      - Description
+    columnSize:
+      note.Rarity: 98

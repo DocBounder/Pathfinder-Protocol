@@ -1,0 +1,33 @@
+{
+  "pluginList": [
+    "edrickleong/obsidian-calendar-bases",
+    "edrickleong/obsidian-feed-bases",
+    "mProjectsCode/obsidian-bases-charts-plugin"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "edrickleong/obsidian-calendar-bases",
+      "version": "latest"
+    },
+    {
+      "repo": "edrickleong/obsidian-feed-bases",
+      "version": "latest"
+    },
+    {
+      "repo": "mProjectsCode/obsidian-bases-charts-plugin",
+      "version": "latest"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false,
+  "allowIncompatiblePlugins": false
+}

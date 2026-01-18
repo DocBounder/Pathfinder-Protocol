@@ -1,0 +1,1423 @@
+{
+  "main": {
+    "id": "bd93cfa48f8a245a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2da6665ef3fb8320",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4ba5ff688d7c89e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Maru Quicksilver",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Maru Quicksilver.jpg\"},\"icon\":\"lucide-image\",\"title\":\"Maru Quicksilver\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "City Generator",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Assets/City Generator.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"City Generator\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "Upper East Side Boyz Fight[2T][Party]",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"z_Assets/Upper East Side Boyz Fight[2T][Party].pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"Upper East Side Boyz Fight[2T][Party]\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Upper East Side Boyz Fight[2T][Duo]",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"z_Assets/Upper East Side Boyz Fight[2T][Duo].pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"Upper East Side Boyz Fight[2T][Duo]\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Connections and Bonds",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"0. Scratch Notes/Connections and Bonds.canvas\",\"viewState\":{\"x\":-330,\"y\":120,\"zoom\":-0.14654866335294184}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"Connections and Bonds\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "To-do",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch Notes/To-do.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"To-do\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Connections and Bonds",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"0. Scratch Notes/Connections and Bonds.canvas\",\"viewState\":{\"x\":0,\"y\":0,\"zoom\":0}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"Connections and Bonds\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Campaign Overview",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch Notes/Campaign Overview.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Campaign Overview\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Campaign Overview",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch Notes/Campaign Overview.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Campaign Overview\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Connections and Bonds",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"0. Scratch Notes/Connections and Bonds.canvas\",\"viewState\":{\"x\":0,\"y\":0,\"zoom\":0}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"Connections and Bonds\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Campaign Overview",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch Notes/Campaign Overview.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Campaign Overview\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":8.2}"
+                },
+                {
+                  "title": "Connections and Bonds",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"0. Scratch Notes/Connections and Bonds.canvas\",\"viewState\":{\"x\":0,\"y\":0,\"zoom\":0}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"Connections and Bonds\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "1. The Party",
+                  "icon": "lucide-table",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"1. The Party/1. The Party.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"1. The Party\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"selection\":null,\"activeCell\":{\"groupIdx\":0,\"row\":0,\"column\":10}}}}"
+                },
+                {
+                  "title": "Kalah",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Kalah.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Kalah\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}}}"
+                },
+                {
+                  "title": "1. The Party",
+                  "icon": "lucide-table",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"1. The Party/1. The Party.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"1. The Party\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null}}}"
+                },
+                {
+                  "title": "Kalah",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Kalah.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Kalah\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Elowen Vale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Elowen Vale.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Elowen\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Eleanore",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Eleanore.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Eleanore\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Benette",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Benette.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Benette\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "PC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/2_Mechanic Gallery/PC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"PC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}}}"
+                },
+                {
+                  "title": "Kalah",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Kalah.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Kalah\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "1. The Party",
+                  "icon": "lucide-table",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"1. The Party/1. The Party.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"1. The Party\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null}}}"
+                },
+                {
+                  "title": "Benette",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Benette.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Benette\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "1. The Party",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"1. The Party/1. The Party.base\",\"viewName\":\"NPC Posters\"},\"icon\":\"lucide-layout-grid\",\"title\":\"1. The Party\"}",
+                  "eState": "{\"views\":{\"NPC Posters\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "Benette",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Benette.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Benette\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "1. The Party",
+                  "icon": "lucide-table",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"1. The Party/1. The Party.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"1. The Party\"}",
+                  "eState": "{\"views\":{\"NPC Posters\":{\"scroll\":{\"top\":0}},\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null}}}"
+                },
+                {
+                  "title": "Elowen Vale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Elowen Vale.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Elowen\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "1. The Party",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"1. The Party/1. The Party.base\",\"viewName\":\"NPC Posters\"},\"icon\":\"lucide-layout-grid\",\"title\":\"1. The Party\"}",
+                  "eState": "{\"views\":{\"NPC Posters\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "Sade",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Sade.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Sade\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "1. The Party",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"1. The Party/1. The Party.base\",\"viewName\":\"NPC Posters\"},\"icon\":\"lucide-layout-grid\",\"title\":\"1. The Party\"}",
+                  "eState": "{\"views\":{\"NPC Posters\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "Eleanore",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Eleanore.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Eleanore\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "1. The Party",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"1. The Party/1. The Party.base\",\"viewName\":\"NPC Posters\"},\"icon\":\"lucide-layout-grid\",\"title\":\"1. The Party\"}",
+                  "eState": "{\"views\":{\"NPC Posters\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "Benette",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Benette.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Benette\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "1. The Party",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"1. The Party/1. The Party.base\",\"viewName\":\"NPC Posters\"},\"icon\":\"lucide-layout-grid\",\"title\":\"1. The Party\"}",
+                  "eState": "{\"views\":{\"NPC Posters\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "Kalah",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Kalah.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Kalah\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "1. The Party",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"1. The Party/1. The Party.base\",\"viewName\":\"NPC Posters\"},\"icon\":\"lucide-layout-grid\",\"title\":\"1. The Party\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null},\"NPC Posters\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "Non-Player Character",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"1. World Almanac/Non-Player Character/Non-Player Character.base\",\"viewName\":\"NPC Posters\"},\"icon\":\"lucide-layout-grid\",\"title\":\"Non-Player Character\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null},\"NPC Posters\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "2. Mechanics",
+                  "icon": "lucide-table",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"2. Mechanics/2. Mechanics.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"2. Mechanics\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null},\"NPC Posters\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "Non-Player Character",
+                  "icon": "lucide-table",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"1. World Almanac/Non-Player Character/Non-Player Character.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"Non-Player Character\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null},\"NPC Posters\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "2. Mechanics",
+                  "icon": "lucide-table",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"2. Mechanics/2. Mechanics.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"2. Mechanics\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null},\"NPC Posters\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "Maru Quicksilver",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Non-Player Character/Maru Quicksilver.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Maru Quicksilver\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "Non-Player Character",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"1. World Almanac/Non-Player Character/Non-Player Character.base\",\"viewName\":\"NPC Posters\"},\"icon\":\"lucide-layout-grid\",\"title\":\"Non-Player Character\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null},\"NPC Posters\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "Maru Quicksilver",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Non-Player Character/Maru Quicksilver.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Maru Quicksilver\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "Non-Player Character",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"1. World Almanac/Non-Player Character/Non-Player Character.base\",\"viewName\":\"NPC Posters\"},\"icon\":\"lucide-layout-grid\",\"title\":\"Non-Player Character\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null},\"NPC Posters\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "2. Mechanics",
+                  "icon": "lucide-table",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"2. Mechanics/2. Mechanics.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"2. Mechanics\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null},\"NPC Posters\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "Maru Quicksilver",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Maru Quicksilver.jpg\"},\"icon\":\"lucide-image\",\"title\":\"Maru Quicksilver\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Maru Quicksilver",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Non-Player Character/Maru Quicksilver.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Maru Quicksilver\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":29},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Non-Player Character",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"1. World Almanac/Non-Player Character/Non-Player Character.base\",\"viewName\":\"NPC Posters\"},\"icon\":\"lucide-layout-grid\",\"title\":\"Non-Player Character\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null},\"NPC Posters\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "2. Mechanics",
+                  "icon": "lucide-table",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"2. Mechanics/2. Mechanics.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"2. Mechanics\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null},\"NPC Posters\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "Maru Quicksilver",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Non-Player Character/Maru Quicksilver.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Maru Quicksilver\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "Non-Player Character",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"1. World Almanac/Non-Player Character/Non-Player Character.base\",\"viewName\":\"NPC Posters\"},\"icon\":\"lucide-layout-grid\",\"title\":\"Non-Player Character\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null},\"NPC Posters\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "Maru Quicksilver",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Non-Player Character/Maru Quicksilver.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Maru Quicksilver\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.684563758389262}"
+                },
+                {
+                  "title": "Non-Player Character",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"1. World Almanac/Non-Player Character/Non-Player Character.base\",\"viewName\":\"NPC Posters\"},\"icon\":\"lucide-layout-grid\",\"title\":\"Non-Player Character\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null},\"View\":{\"scroll\":{\"top\":0}},\"NPC Posters\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "2. Mechanics",
+                  "icon": "lucide-table",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"2. Mechanics/2. Mechanics.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"2. Mechanics\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null},\"View\":{\"scroll\":{\"top\":0}},\"NPC Posters\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "Non-Player Character",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"1. World Almanac/Non-Player Character/Non-Player Character.base\",\"viewName\":\"View\"},\"icon\":\"lucide-layout-grid\",\"title\":\"Non-Player Character\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null},\"View\":{\"scroll\":{\"top\":0}},\"NPC Posters\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "2. Mechanics",
+                  "icon": "lucide-table",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"2. Mechanics/2. Mechanics.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"2. Mechanics\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null},\"View\":{\"scroll\":{\"top\":0}},\"NPC Posters\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "Maru Quicksilver",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Non-Player Character/Maru Quicksilver.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Maru Quicksilver\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2. Mechanics",
+                  "icon": "lucide-table",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"2. Mechanics/2. Mechanics.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"2. Mechanics\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null}}}"
+                },
+                {
+                  "title": "Campaign Overview",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch Notes/Campaign Overview 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Campaign Overview\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2. Mechanics",
+                  "icon": "lucide-table",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"2. Mechanics/2. Mechanics.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"Homebase\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Assets/City Generator.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "City Generator"
+            }
+          },
+          {
+            "id": "bf9ec4bef64c9986",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Medieval Fantasy City Generator by watabou",
+                  "icon": "globe-2",
+                  "state": "{\"type\":\"webviewer\",\"state\":{\"url\":\"https://watabou.itch.io/medieval-fantasy-city-generator\",\"title\":\"Medieval Fantasy City Generator by watabou\",\"mode\":\"webview\"},\"icon\":\"globe-2\",\"title\":\"Medieval Fantasy City Generator by watabou\"}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Assets/Village Generator.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Village Generator"
+            }
+          },
+          {
+            "id": "65dee85461c1a96e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Maru Quicksilver",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Maru Quicksilver.jpg\"},\"icon\":\"lucide-image\",\"title\":\"Maru Quicksilver\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Village Generator by watabou",
+                  "icon": "globe-2",
+                  "state": "{\"type\":\"webviewer\",\"state\":{\"url\":\"https://watabou.itch.io/village-generator\",\"title\":\"Village Generator by watabou\",\"mode\":\"webview\"},\"icon\":\"globe-2\",\"title\":\"Village Generator by watabou\"}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Assets/City Generator.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "City Generator"
+            }
+          },
+          {
+            "id": "b6a370ffee6fb424",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Medieval Fantasy City Generator by watabou",
+                  "icon": "globe-2",
+                  "state": "{\"type\":\"webviewer\",\"state\":{\"url\":\"https://watabou.itch.io/medieval-fantasy-city-generator\",\"title\":\"Medieval Fantasy City Generator by watabou\",\"mode\":\"webview\"},\"icon\":\"globe-2\",\"title\":\"Medieval Fantasy City Generator by watabou\"}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Assets/Village Generator.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Village Generator"
+            }
+          },
+          {
+            "id": "cf64dfe5366fdfb5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Upper East Side Boyz Encounter",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Upper East Side Boyz Encounter.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Upper East Side Boyz Encounter\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":87},\"to\":{\"line\":1,\"ch\":74}},\"scroll\":0}"
+                },
+                {
+                  "title": "2. Mechanics",
+                  "icon": "lucide-table",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"2. Mechanics/2. Mechanics.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"2. Mechanics\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":null,\"left\":0},\"activeCell\":null}}}"
+                },
+                {
+                  "title": "Upper East Side Boyz Fight[2T][Party]",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"z_Assets/Upper East Side Boyz Fight[2T][Party].pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"Upper East Side Boyz Fight[2T][Party]\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Upper East Side Boyz Fight[2T][Duo]",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"z_Assets/Upper East Side Boyz Fight[2T][Duo].pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"Upper East Side Boyz Fight[2T][Duo]\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Upper East Side Boyz Fight[2T][Duo] (alt)",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"z_Assets/Upper East Side Boyz Fight[2T][Duo] (alt).pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"Upper East Side Boyz Fight[2T][Duo] (alt)\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Upper East Side Boyz Fight[2T][Party]",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"z_Assets/Upper East Side Boyz Fight[2T][Party].pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"Upper East Side Boyz Fight[2T][Party]\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Maru Quicksilver",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Maru Quicksilver.jpg\"},\"icon\":\"lucide-image\",\"title\":\"Maru Quicksilver\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Village Generator",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Assets/Village Generator.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Village Generator\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Village Generator by watabou",
+                  "icon": "globe-2",
+                  "state": "{\"type\":\"webviewer\",\"state\":{\"url\":\"https://watabou.itch.io/village-generator\",\"title\":\"Village Generator by watabou\",\"mode\":\"webview\"},\"icon\":\"globe-2\",\"title\":\"Village Generator by watabou\"}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Links/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "1bb76859497ebf0b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "All-Cards-Printer-Friendly-9-09-25",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"z_Assets/All-Cards-Printer-Friendly-9-09-25.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"All-Cards-Printer-Friendly-9-09-25\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/2_Mechanic Gallery/Dangers/Untitled.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":95,\"ch\":46},\"to\":{\"line\":95,\"ch\":46}},\"scroll\":8.79765395894428}"
+                },
+                {
+                  "title": "Template — Group (Goverment)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Goverment).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (Goverment)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template — Group (Other)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Other).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (Other)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template — Group (Military)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Military).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (Military)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template — Group (List)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (List).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (List)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template — Group (Family)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Family).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (Family)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template — Group (Ethnic)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Ethnic).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (Ethnic)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template — Group (Commerce)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Commerce).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (Commerce)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template — Group (Religious)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Religious).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (Religious)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template — Group (Military)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Military).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (Military)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template — Group (List)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (List).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (List)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template — Group (Family)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Family).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (Family)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template — Group (Ethnic)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Ethnic).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (Ethnic)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template — Group (Commerce)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Commerce).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (Commerce)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template — Group (List)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (List).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (List)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template — Group (Family)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Family).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (Family)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template — Group (Ethnic)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Ethnic).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (Ethnic)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template — Group (Family)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Family).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (Family)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template — Group (Ethnic)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Ethnic).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (Ethnic)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template — Group (Commerce)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Commerce).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (Commerce)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template — Group (Base)",
+                  "icon": "lucide-table",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Base).base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"Template — Group (Base)\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null}}}"
+                },
+                {
+                  "title": "Template — Group (Commerce)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Commerce).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (Commerce)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":16},\"to\":{\"line\":8,\"ch\":16}}}"
+                },
+                {
+                  "title": "Kalah",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Kalah.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Kalah\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Template — Group (Commerce)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Commerce).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (Commerce)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template — Group (Religious)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Religious).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (Religious)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":16},\"to\":{\"line\":0,\"ch\":16}}}"
+                },
+                {
+                  "title": "Template — Group (Military)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Military).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (Military)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":14},\"to\":{\"line\":6,\"ch\":14}}}"
+                },
+                {
+                  "title": "Template — Group (Political)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Political).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (Political)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":43},\"to\":{\"line\":8,\"ch\":43}}}"
+                },
+                {
+                  "title": "Template — Group (Family)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Family).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (Family)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":33},\"to\":{\"line\":21,\"ch\":33}}}"
+                },
+                {
+                  "title": "Template — Group (Other)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Other).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (Other)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template — Group (Family)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Family).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":87,\"ch\":26},\"to\":{\"line\":87,\"ch\":26}},\"scroll\":0}"
+                },
+                {
+                  "title": "Template — Group (Ethnic)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Ethnic).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (Ethnic)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":15},\"to\":{\"line\":14,\"ch\":15}},\"scroll\":5.82812484105428}"
+                },
+                {
+                  "title": "Template — Group (Commerce)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Commerce).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (Commerce)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":109,\"ch\":35},\"to\":{\"line\":109,\"ch\":35}}}"
+                },
+                {
+                  "title": "Template — Group (List)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (List).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template — Group (Other)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Groups/Template — Group (Other).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template — Group (Other)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":122,\"ch\":0},\"to\":{\"line\":122,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Valor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notion/Daggerbase/Databases/Attributes/Valor.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Valor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Daggerbase",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notion/Daggerbase/Daggerbase.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Daggerbase\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Attributes",
+                  "icon": "lucide-table",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"Notion/Daggerbase/Databases/Attributes/Attributes.base\",\"viewName\":\"Table View\"},\"icon\":\"lucide-table\",\"title\":\"Attributes\"}",
+                  "eState": "{\"views\":{\"Table View\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null}}}"
+                },
+                {
+                  "title": "Arcana",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notion/Daggerbase/Databases/Attributes/Arcana.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Arcana\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Databases",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notion/Daggerbase/Databases/Databases.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Databases\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":4.024321283809588}"
+                },
+                {
+                  "title": "Daggerbase",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notion/Daggerbase/Daggerbase.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Daggerbase\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":12.948957125345865}"
+                },
+                {
+                  "title": "Acidpaste",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notion/Daggerbase/Databases/Loot/Acidpaste.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Acidpaste\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Loot",
+                  "icon": "lucide-table",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"Notion/Daggerbase/Databases/Loot/Loot.base\",\"viewName\":\"Table View\"},\"icon\":\"lucide-table\",\"title\":\"Loot\"}",
+                  "eState": "{\"views\":{\"Table View\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null}}}"
+                },
+                {
+                  "title": "Valor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notion/Daggerbase/Databases/Attributes/Valor.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Valor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}}}"
+                },
+                {
+                  "title": "Splendor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notion/Daggerbase/Databases/Attributes/Splendor.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Splendor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}}}"
+                },
+                {
+                  "title": "Sage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notion/Daggerbase/Databases/Attributes/Sage.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Sage\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":0},\"to\":{\"line\":31,\"ch\":0}}}"
+                },
+                {
+                  "title": "Midnight",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notion/Daggerbase/Databases/Attributes/Midnight.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Midnight\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}}}"
+                },
+                {
+                  "title": "Grace",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notion/Daggerbase/Databases/Attributes/Grace.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Grace\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Codex",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notion/Daggerbase/Databases/Attributes/Codex.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Codex\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}}}"
+                },
+                {
+                  "title": "Bone",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notion/Daggerbase/Databases/Attributes/Bone.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Bone\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":0},\"to\":{\"line\":31,\"ch\":0}}}"
+                },
+                {
+                  "title": "Blade",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notion/Daggerbase/Databases/Attributes/Blade.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Blade\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}}}"
+                },
+                {
+                  "title": "Arcana",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notion/Daggerbase/Databases/Attributes/Arcana.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Arcana\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Attributes",
+                  "icon": "lucide-table",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"Notion/Daggerbase/Databases/Attributes/Attributes.base\",\"viewName\":\"Table View\"},\"icon\":\"lucide-table\",\"title\":\"Attributes\"}",
+                  "eState": "{\"views\":{\"Table View\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null}}}"
+                },
+                {
+                  "title": "Databases",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notion/Daggerbase/Databases/Databases.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Databases\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Daggerbase",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notion/Daggerbase/Daggerbase.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Daggerbase\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Blade",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Blade.jpeg\"},\"icon\":\"lucide-image\",\"title\":\"Blade\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Links/Untitled.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "Daggerheart encounter manager | FreshCutGrass.app",
+                  "icon": "globe-2",
+                  "state": "{\"type\":\"webviewer\",\"state\":{\"url\":\"https://freshcutgrass.app/encounter-manager\",\"title\":\"Daggerheart encounter manager | FreshCutGrass.app\",\"mode\":\"webview\"},\"icon\":\"globe-2\",\"title\":\"Daggerheart encounter manager | FreshCutGrass.app\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://freshcutgrass.app/\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                },
+                {
+                  "title": "Community Homebrew Adversaries | FreshCutGrass.app",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://freshcutgrass.app/homebrew\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                },
+                {
+                  "title": "",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://freshcutgrass.app/publications\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                },
+                {
+                  "title": "Daggerheart encounter manager | FreshCutGrass.app",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://freshcutgrass.app/encounter-manager\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                },
+                {
+                  "title": "",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://freshcutgrass.app/my-content/library\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                },
+                {
+                  "title": "My Library | FreshCutGrass.app",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://freshcutgrass.app/my-content/encounters\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                },
+                {
+                  "title": "My Encounters | FreshCutGrass.app",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://freshcutgrass.app/my-content/documents\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                },
+                {
+                  "title": "My Encounters | FreshCutGrass.app",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://freshcutgrass.app/my-content/encounters\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                },
+                {
+                  "title": "My Encounters | FreshCutGrass.app",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://freshcutgrass.app/my-content/adversaries\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                },
+                {
+                  "title": "My Library | FreshCutGrass.app",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://freshcutgrass.app/my-content/library\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                },
+                {
+                  "title": "My Library | FreshCutGrass.app",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://discord.com/oauth2/authorize?client_id=1244631497328037939&scope=identify%20email&response_type=code&redirect_uri=https%3A%2F%2Ffreshcutgrass.app%2Fapi%2Fauth%2Fcallback%2Fdiscord&state=GVLFC22OysHT5J5Ta63m_JkxGF_Xp2NfjFlbNeH3tko\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                },
+                {
+                  "title": "Discord",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://freshcutgrass.app/my-content/library\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                },
+                {
+                  "title": "My Library | FreshCutGrass.app",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://freshcutgrass.app/encounter-manager\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                },
+                {
+                  "title": "Daggerheart encounter manager | FreshCutGrass.app",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://freshcutgrass.app/\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31d285ad2060633a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb38c89c3ee87758",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8713fb93df1d19f4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2bac1045f83729bb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bbc72a39639c90b8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "right": {
+    "id": "700b65b0a27397aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e55c83832900814",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65e2563ea3097b52",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Age of Dungeon Breaks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Age of Dungeon Breaks"
+            }
+          },
+          {
+            "id": "e38a9c2a739808c2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Age of Dungeon Breaks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Age of Dungeon Breaks"
+            }
+          },
+          {
+            "id": "6485e8222e2a2fcb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bcc47d6135b1652c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Age of Dungeon Breaks.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Age of Dungeon Breaks"
+            }
+          },
+          {
+            "id": "974528aa8465b5bd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "85fef34cf1c18cb3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "bf42d8013c82961d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "04b49033b93b1c70",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "daggerforge:DaggerForge menu": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-importer:Open Importer": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8713fb93df1d19f4",
+  "lastOpenFiles": [
+    "Crow(1).md",
+    "Untitled.md",
+    "z_Assets/All-Cards-Printer-Friendly-9-09-25.pdf",
+    "z_Templates/2_Mechanic Gallery/Dangers/Untitled.md",
+    "z_Assets/daggerheart-handouts-main/~$GM Screen.pptx",
+    "z_Assets/consequences-complications-and-costs-v0-10d7jl9vf4yf1.webp",
+    "z_Assets/Unconfirmed 287144.crdownload",
+    "z_Assets/consequences-complications-and-costs-v0-m206lpjvf4yf1.webp",
+    "z_Assets/Unconfirmed 479897.crdownload",
+    "z_Assets/daggerheart-condition-rings-srd-based-v0-3xmqqtudmhyf1.webp",
+    "z_Assets/Unconfirmed 419498.crdownload",
+    "z_Assets/7K1dmC.png",
+    "z_Assets/Unconfirmed 868943.crdownload",
+    "Notion/Daggerbase/Untitled",
+    "z_Templates/Groups/Template — Group (Goverment).md",
+    "z_Templates/Groups/Template — Group (Other).md",
+    "z_Templates/Groups/Template — Group (Military).md",
+    "z_Templates/Groups/Template — Group (List).md",
+    "z_Templates/Groups/Template — Group (Family).md",
+    "z_Templates/Groups/Template — Group (Ethnic).md",
+    "z_Templates/Groups/Template — Group (Commerce).md",
+    "z_Templates/Groups/Template — Group (Religious).md",
+    "z_Templates/Groups/Template — Group (Base).base",
+    "1. The Party/Kalah.md",
+    "z_Templates/Groups/Template — Group (Political).md",
+    "z_Templates/Groups",
+    "Notion/Daggerbase/Databases/Attributes/Valor.md",
+    "Notion/Daggerbase/Daggerbase.md",
+    "Notion/Daggerbase/Domain",
+    "Notion/Daggerbase/Databases/Attributes/Arcana.md",
+    "Notion/Daggerbase/Databases/Databases.md",
+    "Notion/Daggerbase/Databases/Loot/Acidpaste.md",
+    "Notion/Daggerbase/Databases/Attributes/Splendor.md",
+    "Notion/Daggerbase/Databases/Attributes/Sage.md",
+    "Notion/Daggerbase/Databases/Attributes/Midnight.md",
+    "Notion/Daggerbase/Databases/Attributes/Grace.md",
+    "Notion/Daggerbase/Databases/Attributes/Codex.md",
+    "Notion/Daggerbase/Databases/Attributes/Bone.md",
+    "Notion/Daggerbase/Databases/Attributes/Blade.md",
+    "z_Assets/Blade.jpeg",
+    "z_Assets/Screenshot 2025-09-10 at 8.39.58 AM.png",
+    "z_Assets/Screenshot_2025-09-10_at_12.46.53_PM.png",
+    "z_Assets/Screenshot_2025-09-10_at_12.23.23_PM.png",
+    "z_Assets/Screenshot_2025-09-10_at_2.59.51_PM.png",
+    "z_Assets/Screenshot_2025-09-10_at_3.26.00_PM.png",
+    "0. Scratch Notes/Connections and Bonds.canvas"
+  ]
+}

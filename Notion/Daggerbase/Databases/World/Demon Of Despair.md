@@ -1,0 +1,29 @@
+---
+base: "[[World.base]]"
+Damage: 3d6+4 mag
+Description: A cloaked one-creature with long limbs, seeping shadows.
+Experience: Manipulation +3
+Potential Environments: []
+Difficulty: 17
+Range: Far
+Weapon: Miasma Bolt
+Features: |-
+  Depths of Despair - Passive: 
+  The Demon deals double damage to PCs with 0 Hope.
+
+  Your Struggle Is Pointless - Action: 
+  Spend a Fear to weigh down the spirits of all PCs within Far range. All targets affected replace their Hope Die with a d8 until they roll a success with Hope or their next rest.
+
+  Your Friends Will Fail You - Reaction: 
+  When a PC fails with Fear, you can mark a Stress to cause all other PCs within Close range to lose a Hope.
+
+  Momentum - Reaction: 
+  When the Demon makes a successful attack against a PC, you gain a Fear.
+Thresholds: 18/35
+HP: 6
+Tier: Tier 3
+Stress: 5
+Type: Skulk
+Attack: 3
+Motives & Tactics: Make fear contagious, stick to the shadows, undermine resolve
+---

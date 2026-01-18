@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: NPC Posters
+    filters:
+      and:
+        - file.folder == "2. Mechanics/Non-Player Character"
+        - '!file.name.contains(".base")'
+    order:
+      - file.name
+    image: note.poster
+    cardSize: 170
+  - type: table
+    name: Table

@@ -1,0 +1,23 @@
+filters:
+  and:
+    - note["base"] == link("Attributes.base")
+properties:
+  file.name:
+    displayName: Domain
+  Description:
+    displayName: Description
+  Cards:
+    displayName: Cards
+  Icon:
+    displayName: Icon
+  Classes:
+    displayName: Classes
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Description
+      - Cards
+      - Icon
+      - Classes
