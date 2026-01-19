@@ -27,4 +27,4 @@ Classes:
   - 2ec471fb-155b-8116-92fc-d269f7501fd4
   - 2ec471fb-155b-811e-8181-d567c7b8f2ba
 ---
-![[Screenshot_2025-09-10_at_12.23.23_PM.png]]
+![[d_Arcana.png]]

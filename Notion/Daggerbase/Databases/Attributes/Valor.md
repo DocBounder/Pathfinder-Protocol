@@ -28,4 +28,4 @@ Classes:
   - 2ec471fb-155b-8110-9047-ee8735cce570
   - 2ec471fb-155b-81db-bf37-fe1058b7a451
 ---
-![[Screenshot_2025-09-10_at_3.35.12_PM.png]]
+![[d_Valor.png]]

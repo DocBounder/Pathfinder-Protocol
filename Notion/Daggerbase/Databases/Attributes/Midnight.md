@@ -28,4 +28,4 @@ Classes:
   - 2ec471fb-155b-811e-8181-d567c7b8f2ba
   - 2ec471fb-155b-81c1-b321-fc926a8b066f
 ---
-![[Screenshot_2025-09-10_at_12.41.59_PM.png]]
+![[d_Midnight.png]]

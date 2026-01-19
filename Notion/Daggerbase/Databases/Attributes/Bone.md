@@ -24,10 +24,10 @@ Cards:
   - 2ec471fb-155b-81bf-a33f-fbfada6c3a20
   - 2ec471fb-155b-81f6-858d-ebd1f1a6445c
 Icon:
-  - "[[Screenshot 2025-09-10 at 8.41.56 AM.png]]"
+  - "[[Bone.png]]"
 Classes:
   - 2ec471fb-155b-8103-96c0-f636287651f9
   - 2ec471fb-155b-8173-9e7e-fad8c6be0472
 ---
 
-![[Screenshot_2025-09-10_at_12.04.47_PM.png]]
+![[d_Bone.png]]

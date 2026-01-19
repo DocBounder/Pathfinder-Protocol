@@ -28,4 +28,4 @@ Classes:
   - 2ec471fb-155b-81a0-bbc5-df5c48c025f1
   - 2ec471fb-155b-8110-9047-ee8735cce570
 ---
-![[Screenshot_2025-09-10_at_2.42.57_PM.png]]
+![[Splendor.png]]

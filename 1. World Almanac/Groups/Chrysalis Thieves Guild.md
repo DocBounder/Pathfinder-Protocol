@@ -1,2 +1,2 @@
-Guild Master(s): [[Kalah]] || [[Benette]]
+Guild Master(s): [[Kalah]] || [[Jane Bennet]]
 Spy Master: [[Crow]]

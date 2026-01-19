@@ -2,6 +2,17 @@ properties:
   file.name:
     displayName: Name
 views:
+  - type: cards
+    name: NPC Posters
+    filters:
+      and:
+        - '!file.name.contains(".base")'
+        - file.folder == "1. The Party"
+    order:
+      - file.name
+    image: note.poster
+    cardSize: 250
+    imageAspectRatio: 1.15
   - type: table
     name: Table
     filters:
@@ -27,13 +38,3 @@ views:
         direction: ASC
     columnSize:
       "note.hope ": 99
-  - type: cards
-    name: NPC Posters
-    filters:
-      and:
-        - '!file.name.contains(".base")'
-        - file.folder == "1. The Party"
-    order:
-      - file.name
-    image: note.poster
-    cardSize: 170

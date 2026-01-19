@@ -28,4 +28,4 @@ Classes:
   - 2ec471fb-155b-81c1-b321-fc926a8b066f
   - 2ec471fb-155b-814e-9511-e6e32cc3958f
 ---
-![[Screenshot_2025-09-10_at_3.26.00_PM.png]]
+![[d_Grace.png]]

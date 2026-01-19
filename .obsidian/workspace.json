@@ -26,7 +26,7 @@
                 {
                   "title": "City Generator",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Assets/City Generator.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"City Generator\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Assets/Links/City Generator.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"City Generator\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
                 },
                 {
@@ -134,7 +134,7 @@
                 {
                   "title": "Benette",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Benette.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Benette\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Jane Bennet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Benette\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -158,7 +158,7 @@
                 {
                   "title": "Benette",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Benette.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Benette\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Jane Bennet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Benette\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -170,7 +170,7 @@
                 {
                   "title": "Benette",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Benette.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Benette\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Jane Bennet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Benette\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -218,7 +218,7 @@
                 {
                   "title": "Benette",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Benette.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Benette\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Jane Bennet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Benette\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -388,7 +388,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Assets/City Generator.md",
+                "file": "z_Assets/Links/City Generator.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -472,7 +472,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Assets/City Generator.md",
+                "file": "z_Assets/Links/City Generator.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -598,7 +598,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links/Untitled.md",
+                "file": "z_Assets/Links/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -620,11 +620,311 @@
             "id": "1bb76859497ebf0b",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Jane Bennet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Jane Bennet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Jane Bennet\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Connections and Bonds",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"0. Scratch Notes/Connections and Bonds.canvas\",\"viewState\":{\"x\":-56.0461651261445,\"y\":-191.9534722049441,\"zoom\":-0.3436140225344356}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"Connections and Bonds\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Jane Bennet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Jane Bennet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Jane Bennet\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "Chrysalis Thieves Guild",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Groups/Chrysalis Thieves Guild.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Chrysalis Thieves Guild\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":36},\"to\":{\"line\":0,\"ch\":36}}}"
+                },
+                {
+                  "title": "Guild Benette",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Guild Benette.png\"},\"icon\":\"lucide-image\",\"title\":\"Guild Benette\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "City Generator",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Assets/Links/City Generator.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"City Generator\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "consequences-complications-and-costs-v0-10d7jl9vf4yf1",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/consequences-complications-and-costs-v0-10d7jl9vf4yf1.webp\"},\"icon\":\"lucide-image\",\"title\":\"consequences-complications-and-costs-v0-10d7jl9vf4yf1\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "consequences-complications-and-costs-v0-m206lpjvf4yf1",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/consequences-complications-and-costs-v0-m206lpjvf4yf1.webp\"},\"icon\":\"lucide-image\",\"title\":\"consequences-complications-and-costs-v0-m206lpjvf4yf1\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Splendor",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Splendor.png\"},\"icon\":\"lucide-image\",\"title\":\"Splendor\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Upper East Side Boyz Fight[2T][Duo]",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"z_Assets/Upper East Side Boyz Fight[2T][Duo].pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"Upper East Side Boyz Fight[2T][Duo]\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Sage",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Sage.png\"},\"icon\":\"lucide-image\",\"title\":\"Sage\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "d_Grace",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/d_Grace.png\"},\"icon\":\"lucide-image\",\"title\":\"d_Grace\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Freshwater Nixie",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Freshwater Nixie.jpg\"},\"icon\":\"lucide-image\",\"title\":\"Freshwater Nixie\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Doom Spiral",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Doom Spiral.png\"},\"icon\":\"lucide-image\",\"title\":\"Doom Spiral\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "d_Codex",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/d_Codex.png\"},\"icon\":\"lucide-image\",\"title\":\"d_Codex\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "City Generator",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Assets/Links/City Generator.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"City Generator\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "d_Codex",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/d_Codex.png\"},\"icon\":\"lucide-image\",\"title\":\"Codex\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "consequences-complications-and-costs-v0-10d7jl9vf4yf1",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/consequences-complications-and-costs-v0-10d7jl9vf4yf1.webp\"},\"icon\":\"lucide-image\",\"title\":\"consequences-complications-and-costs-v0-10d7jl9vf4yf1\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "consequences-complications-and-costs-v0-m206lpjvf4yf1",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/consequences-complications-and-costs-v0-m206lpjvf4yf1.webp\"},\"icon\":\"lucide-image\",\"title\":\"consequences-complications-and-costs-v0-m206lpjvf4yf1\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "d_Valor",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/d_Valor.png\"},\"icon\":\"lucide-image\",\"title\":\"d_Valor\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Valor",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Valor.jpeg\"},\"icon\":\"lucide-image\",\"title\":\"Valor\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "d_Valor",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/d_Valor.png\"},\"icon\":\"lucide-image\",\"title\":\"Valor\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Valor",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Valor.jpeg\"},\"icon\":\"lucide-image\",\"title\":\"Valor\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Splendor",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Splendor.png\"},\"icon\":\"lucide-image\",\"title\":\"Splendor\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Sage",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Sage.png\"},\"icon\":\"lucide-image\",\"title\":\"Sage\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "d_Sage",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/d_Sage.png\"},\"icon\":\"lucide-image\",\"title\":\"d_Sage\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "d_Midnight",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/d_Midnight.png\"},\"icon\":\"lucide-image\",\"title\":\"d_Midnight\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "d_Arcana",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/d_Arcana.png\"},\"icon\":\"lucide-image\",\"title\":\"d_Arcana\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "d_Bone",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/d_Bone.png\"},\"icon\":\"lucide-image\",\"title\":\"d_Bone\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Blade",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Blade.png\"},\"icon\":\"lucide-image\",\"title\":\"Blade\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "d_Valor",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/d_Valor.png\"},\"icon\":\"lucide-image\",\"title\":\"Valor\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "d_Grace",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/d_Grace.png\"},\"icon\":\"lucide-image\",\"title\":\"Grace\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "d_Codex",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/d_Codex.png\"},\"icon\":\"lucide-image\",\"title\":\"Codex\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Splendor",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Splendor.png\"},\"icon\":\"lucide-image\",\"title\":\"Splendor\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Bone",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Bone.png\"},\"icon\":\"lucide-image\",\"title\":\"Bone\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Sage",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Sage.png\"},\"icon\":\"lucide-image\",\"title\":\"Sage\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "d_Codex",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/d_Codex.png\"},\"icon\":\"lucide-image\",\"title\":\"Screenshot_2025-09-10_at_2.59.51_PM\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Bone",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Bone.png\"},\"icon\":\"lucide-image\",\"title\":\"Screenshot 2025-09-10 at 8.41.56 AM\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Sage",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Sage.png\"},\"icon\":\"lucide-image\",\"title\":\"Screenshot 2025-09-10 at 8.39.58 AM\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Freshwater Nixie",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Freshwater Nixie.jpg\"},\"icon\":\"lucide-image\",\"title\":\"Freshwater Nixie\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Jane Benette",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Jane Benette.png\"},\"icon\":\"lucide-image\",\"title\":\"Jane Benette\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Doom Spiral",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Doom Spiral.png\"},\"icon\":\"lucide-image\",\"title\":\"Doom Spiral\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Valor",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Valor.jpeg\"},\"icon\":\"lucide-image\",\"title\":\"Valor\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Jane Benette",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Jane Benette.png\"},\"icon\":\"lucide-image\",\"title\":\"76EEB1F6-D016-4A91-9320-D99F718358AD\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Doom Spiral",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Doom Spiral.png\"},\"icon\":\"lucide-image\",\"title\":\"7K1dmC\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Jane Bennet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Jane Bennet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Benette\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "1. The Party",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"1. The Party/1. The Party.base\",\"viewName\":\"NPC Posters\"},\"icon\":\"lucide-layout-grid\",\"title\":\"1. The Party\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null},\"NPC Posters\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "Jane Bennet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Jane Bennet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Benette\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "1. The Party",
+                  "icon": "lucide-table",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"1. The Party/1. The Party.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"1. The Party\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null}}}"
+                },
+                {
+                  "title": "Template - Character (Player",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Template - Character (Player.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Template - Character (Player\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":10.42654028436019}"
                 },
                 {
                   "title": "Kalah",
@@ -971,7 +1271,7 @@
                 {
                   "title": "Untitled",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Links/Untitled.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Assets/Links/Untitled.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
                 },
                 {
@@ -1067,24 +1367,13 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "z_Templates/Template - Character (Player.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "1. The Party/1. The Party.base",
+                "viewName": "NPC Posters"
               },
-              "icon": "lucide-file",
-              "title": "Template - Character (Player"
+              "icon": "lucide-layout-grid",
+              "title": "1. The Party"
             }
           }
         ],
@@ -1272,13 +1561,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Template - Character (Player.md",
+                "file": "1. The Party/1. The Party.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Template - Character (Player"
+              "title": "Outline of 1. The Party"
             }
           },
           {
@@ -1357,10 +1646,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "z_Templates/Template - Character (Player.md"
+                "file": "1. The Party/1. The Party.base"
               },
               "icon": "lucide-info",
-              "title": "File properties for Template - Character (Player"
+              "title": "File properties for 1. The Party"
             }
           },
           {
@@ -1412,23 +1701,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef18156a004a6317",
+  "active": "1bb76859497ebf0b",
   "lastOpenFiles": [
-    "1. The Party/Kalah.md",
+    "1. The Party/Jane Bennet.md",
+    "1. The Party/1. The Party.base",
+    "0. Scratch Notes/Connections and Bonds.canvas",
+    "1. World Almanac/Groups/Chrysalis Thieves Guild.md",
+    "z_Assets/Guild Benette.png",
+    "z_Assets/Links/City Generator.md",
+    "z_Assets/consequences-complications-and-costs-v0-10d7jl9vf4yf1.webp",
+    "z_Assets/consequences-complications-and-costs-v0-m206lpjvf4yf1.webp",
+    "z_Assets/Splendor.png",
+    "z_Assets/Upper East Side Boyz Fight[2T][Duo].pdf",
+    "z_Assets/Sage.png",
+    "z_Assets/d_Grace.png",
+    "z_Assets/Freshwater Nixie.jpg",
+    "z_Assets/Doom Spiral.png",
+    "z_Assets/d_Codex.png",
+    "z_Assets/d_Valor.png",
+    "z_Assets/Images",
     "z_Templates/Template - Character (Player.md",
+    "1. The Party/Kalah.md",
     "z_Assets/daggerheart-srd-main/subclasses/Nightwalker.md",
     "Crow(1).md",
     "Untitled.md",
     "z_Assets/All-Cards-Printer-Friendly-9-09-25.pdf",
     "z_Templates/2_Mechanic Gallery/Dangers/Untitled.md",
     "z_Assets/daggerheart-handouts-main/~$GM Screen.pptx",
-    "z_Assets/consequences-complications-and-costs-v0-10d7jl9vf4yf1.webp",
     "z_Assets/Unconfirmed 287144.crdownload",
-    "z_Assets/consequences-complications-and-costs-v0-m206lpjvf4yf1.webp",
     "z_Assets/Unconfirmed 479897.crdownload",
-    "z_Assets/daggerheart-condition-rings-srd-based-v0-3xmqqtudmhyf1.webp",
     "z_Assets/Unconfirmed 419498.crdownload",
-    "z_Assets/7K1dmC.png",
     "z_Assets/Unconfirmed 868943.crdownload",
     "Notion/Daggerbase/Untitled",
     "z_Templates/Groups/Template — Group (Goverment).md",
@@ -1439,27 +1741,13 @@
     "z_Templates/Groups/Template — Group (Ethnic).md",
     "z_Templates/Groups/Template — Group (Commerce).md",
     "z_Templates/Groups/Template — Group (Religious).md",
-    "z_Templates/Groups/Template — Group (Base).base",
     "z_Templates/Groups/Template — Group (Political).md",
-    "z_Templates/Groups",
     "Notion/Daggerbase/Databases/Attributes/Valor.md",
     "Notion/Daggerbase/Daggerbase.md",
-    "Notion/Daggerbase/Domain",
     "Notion/Daggerbase/Databases/Attributes/Arcana.md",
     "Notion/Daggerbase/Databases/Databases.md",
     "Notion/Daggerbase/Databases/Loot/Acidpaste.md",
     "Notion/Daggerbase/Databases/Attributes/Splendor.md",
-    "Notion/Daggerbase/Databases/Attributes/Sage.md",
-    "Notion/Daggerbase/Databases/Attributes/Midnight.md",
-    "Notion/Daggerbase/Databases/Attributes/Grace.md",
-    "Notion/Daggerbase/Databases/Attributes/Codex.md",
-    "Notion/Daggerbase/Databases/Attributes/Bone.md",
-    "z_Assets/Blade.jpeg",
-    "z_Assets/Screenshot 2025-09-10 at 8.39.58 AM.png",
-    "z_Assets/Screenshot_2025-09-10_at_12.46.53_PM.png",
-    "z_Assets/Screenshot_2025-09-10_at_12.23.23_PM.png",
-    "z_Assets/Screenshot_2025-09-10_at_2.59.51_PM.png",
-    "z_Assets/Screenshot_2025-09-10_at_3.26.00_PM.png",
-    "0. Scratch Notes/Connections and Bonds.canvas"
+    "Notion/Daggerbase/Databases/Attributes/Sage.md"
   ]
 }

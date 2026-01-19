@@ -24,9 +24,9 @@ Cards:
   - 2ec471fb-155b-81ad-865e-d00fd39dcce5
   - 2ec471fb-155b-81fb-b4eb-f82d61fa1999
 Icon:
-  - "[[Screenshot 2025-09-10 at 8.39.58 AM.png]]"
+  - "[[Sage.png]]"
 Classes:
   - 2ec471fb-155b-8103-96c0-f636287651f9
   - 2ec471fb-155b-8116-92fc-d269f7501fd4
 ---
-![[Screenshot_2025-09-10_at_12.46.53_PM.png]]
+![[d_Sage.png]]

@@ -27,4 +27,4 @@ Classes:
   - 2ec471fb-155b-814e-9511-e6e32cc3958f
   - 2ec471fb-155b-81a0-bbc5-df5c48c025f1
 ---
-![[Screenshot_2025-09-10_at_2.59.51_PM.png]]
+![[d_Codex.png]]

@@ -28,4 +28,4 @@ Classes:
   - 2ec471fb-155b-81db-bf37-fe1058b7a451
   - 2ec471fb-155b-8173-9e7e-fad8c6be0472
 ---
-![[Screenshot_2025-09-10_at_8.57.31_PM.png]]
+![[Blade.png]]

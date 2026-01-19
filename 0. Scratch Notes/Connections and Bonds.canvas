@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"568e5d9e74c761ab","type":"text","text":"[[Benette]]","x":-840,"y":-520,"width":250,"height":60},
+		{"id":"568e5d9e74c761ab","type":"text","text":"[[Jane Bennet]]","x":-840,"y":-520,"width":250,"height":60},
 		{"id":"c5749acd54ff9452","type":"text","text":"Guild master of the [[Chrysalis Thieves Guild]]: All woman","x":-690,"y":-340,"width":250,"height":60},
 		{"id":"8fa14913acce52e3","type":"text","text":"[[Kalah]]","x":-380,"y":-335,"width":250,"height":50},
 		{"id":"15bdc8b407164615","x":-210,"y":-245,"width":250,"height":60,"type":"text","text":"[[Salvatore Crime Family]]"},
